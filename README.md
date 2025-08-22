@@ -9,7 +9,12 @@
 # Project objectives
 *
 # Project Scop
-*
+* Development of a secure digital health record system.
+* Integration with hospitals, clinics, and pharmacies.
+* Patient access through a mobile application/web platform.
+* Doctors’ portal to write e-prescriptions, view medical history, and upload medical documents.
+* Cloud-based storage for reports, scans, and prescriptions.
+* Authentication via national ID.
 # Project Plan
 *
 *
