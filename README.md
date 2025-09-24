@@ -1,4 +1,4 @@
-<img src="https://github.com/Medicatory/images/blob/main/hospital-ward-1338585_1280.jpg" alt="App design preview" style="width:100%;">
+<img src="https://github.com/Medicatory/images/blob/main/hospital-ward-1338585_1280.jpg](https://github.com/Medicatory/images/blob/main/Medcatory.png" alt="App design preview" style="width:100%;">
 
 # Team Members
 * Dalia magdi Mahmoud 
