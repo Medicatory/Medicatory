@@ -31,10 +31,10 @@
 * Authentication via national ID for secure access.
 
 # Project Plan
-* Discovery (Stakeholder interviews, user research, competitive analysis) =>>>>>>>>>> 3 Weeks.
-* Define (Personas, empathy maps, journey maps) =>>>>>>>>>>>> Not started .
-* Ideate (User flows, card sorting, concept sketches) =>>>>>>>>>>>> Not started .
-* Design (Wireframes, visual design, component library) =>>>>>>>>>>>> Not started .
-* Test (Usability testing, feedback, iteration) =>>>>>>>>>>>> Not started .
+* Discovery (Stakeholder interviews, user research, competitive analysis) =========  3 Weeks.
+* Define (Personas, empathy maps, journey maps) ========= Not started .
+* Ideate (User flows, card sorting, concept sketches) ========= Not started .
+* Design (Wireframes, visual design, component library) ========= Not started .
+* Test (Usability testing, feedback, iteration) ========= Not started .
 
 
