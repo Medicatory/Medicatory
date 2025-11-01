@@ -47,6 +47,3 @@
 * Design (Wireframes, visual design, component library) ========= 2 weaks .
 * Test (Usability testing, feedback, iteration) ========= 1 waek .
 
-# Links :
-* Figma Links : https://www.figma.com/design/2r8WtjUncbEOBaLPXe2eMr/Medicatory?node-id=2-2&t=J1ARjvldqTdnaY4l-1
-* presentation Link :https://www.canva.com/design/DAGxLtzTwuc/AWS4IAObx7GuteMmeEZE3Q/edit?utm_content=DAGxLtzTwuc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
