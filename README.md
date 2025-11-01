@@ -1,5 +1,9 @@
 ![Alt text for image](https://github.com/Medicatory/images/blob/main/Medcatory.png)
 
+<a href="https://github.com/yourusername/yourrepo" target="_blank">
+  <img src="https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github" alt="GitHub button"/>
+</a>
+
 
 # Team Members
 * Dalia magdi Mahmoud 
