@@ -1,9 +1,14 @@
 ![Alt text for image](https://github.com/Medicatory/images/blob/main/Medcatory.png)
 
-<a href="https://github.com/yourusername/yourrepo" target="_blank">
-  <img src="https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github" alt="GitHub button"/>
+<!-- 🔹 زرار Figma -->
+<a href="https://www.figma.com/file/yourfigmalink" target="_blank">
+  <img src="https://img.shields.io/badge/Open%20in-Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma button"/>
 </a>
 
+<!-- 🔹 زرار Presentation -->
+<a href="https://yourpresentationlink.com" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Presentation-%23007ACC?style=for-the-badge&logo=google-slides&logoColor=white" alt="Presentation button"/>
+</a>
 
 # Team Members
 * Dalia magdi Mahmoud 
