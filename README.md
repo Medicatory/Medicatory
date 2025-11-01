@@ -32,10 +32,10 @@
 
 # Project Plan
 * Discovery (Stakeholder interviews, user research, competitive analysis) =========  3 Weeks.
-* Define (Personas, empathy maps, journey maps) ========= Not started .
-* Ideate (User flows, card sorting, concept sketches) ========= Not started .
-* Design (Wireframes, visual design, component library) ========= Not started .
-* Test (Usability testing, feedback, iteration) ========= Not started .
+* Define (Personas, empathy maps, journey maps) ========= 1 weak .
+* Ideate (User flows, card sorting, concept sketches) ========= 1 weak .
+* Design (Wireframes, visual design, component library) ========= 2 weaks .
+* Test (Usability testing, feedback, iteration) ========= 1 waek .
 
 # Links :
 * Figma Links : https://www.figma.com/design/2r8WtjUncbEOBaLPXe2eMr/Medicatory?node-id=2-2&t=J1ARjvldqTdnaY4l-1
