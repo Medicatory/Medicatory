@@ -9,11 +9,11 @@
 * Yasmine Ali Mohamed
   
 # Project overview
-* Medicatory is a unified digital healthcare platform that connects hospitals, clinics, pharmacies, and doctors under one secure system. Each citizen has a personal health account linked to their national ID, storing their complete medical history — medications, chronic conditions, prescriptions, laboratory tests, and radiology documents — to ensure continuity of care and reduce medical errors. The platform also enables patients to book appointments, access lab results, manage prescriptions, receive medication reminders, and communicate directly with healthcare providers, streamlining healthcare services and enhancing treatment decisions across Egypt and the region.
+* Medicatory is a unified digital healthcare platform that connects hospitals, clinics, pharmacies, and doctors under one secure system. Each citizen has a personal health account linked to their national ID, storing their complete medical history medications, chronic conditions, prescriptions, laboratory tests, and radiology documents to ensure continuity of care and reduce medical errors. The platform also enables patients to book appointments, access lab results, manage prescriptions, receive medication reminders, and communicate directly with healthcare providers, streamlining healthcare services and enhancing treatment decisions across Egypt and the region.
   
 # Project objectives
 * Provide a centralized digital medical record to eliminate lost papers and fragmented information.
-* Enhance doctor–patient communication and improve diagnosis accuracy.
+* Enhance doctor patient communication and improve diagnosis accuracy.
 * Increase patient engagement through reminders, notifications, and easy data entry.
 * Ensure privacy and data security aligned with local regulations and international standards.
 * Offer multi-stakeholder access (patients, doctors, pharmacies) to improve healthcare coordination.
