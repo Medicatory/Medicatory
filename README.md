@@ -1,12 +1,12 @@
 ![Alt text for image](https://github.com/Medicatory/images/blob/main/Medcatory.png)
 
 <!-- 🔹 زرار Figma -->
-<a href="https://www.figma.com/file/yourfigmalink" target="_blank">
+<a href="https://www.figma.com/file/yourfigmalink](https://www.figma.com/design/2r8WtjUncbEOBaLPXe2eMr/Medicatory?node-id=2-2&t=J1ARjvldqTdnaY4l-1" target="_blank">
   <img src="https://img.shields.io/badge/Open%20in-Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma button"/>
 </a>
 
 <!-- 🔹 زرار Presentation -->
-<a href="https://yourpresentationlink.com" target="_blank">
+<a href="https://yourpresentationlink.com](https://www.canva.com/design/DAGxLtzTwuc/AWS4IAObx7GuteMmeEZE3Q/edit?utm_content=DAGxLtzTwuc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">
   <img src="https://img.shields.io/badge/View%20Presentation-%23007ACC?style=for-the-badge&logo=google-slides&logoColor=white" alt="Presentation button"/>
 </a>
 
