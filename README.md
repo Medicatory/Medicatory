@@ -23,7 +23,7 @@
 * The project aims to solve major challenges faced by patients and doctors in Egypt, where healthcare records are scattered, inconsistent, or unavailable during consultations.
 * Through user research, competitive analysis, and system mapping, Medicatory proposes a modern digital solution that improves communication, diagnosis accuracy, and overall medical experience.
 
-## Project objectives
+# # Project objectives
 # Objectives for Patients
 * Provide a unified, secure Personal Health Record (PHR) system.
 * Offer access to all medical records anytime, anywhere.
