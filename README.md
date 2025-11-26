@@ -19,15 +19,33 @@
 * Yasmine Ali Mohamed
   
 # Project overview
-* Medicatory is a unified digital healthcare platform that connects hospitals, clinics, pharmacies, and doctors under one secure system. Each citizen has a personal health account linked to their national ID, storing their complete medical history medications, chronic conditions, prescriptions, laboratory tests, and radiology documents to ensure continuity of care and reduce medical errors. The platform also enables patients to book appointments, access lab results, manage prescriptions, receive medication reminders, and communicate directly with healthcare providers, streamlining healthcare services and enhancing treatment decisions across Egypt and the region.
+* Medicatory is a digital health platform designed to centralize and organize a patient's complete medical history in one secure and accessible place.
+* The project aims to solve major challenges faced by patients and doctors in Egypt, where healthcare records are scattered, inconsistent, or unavailable during consultations.
+* Through user research, competitive analysis, and system mapping, Medicatory proposes a modern digital solution that improves communication, diagnosis accuracy, and overall medical experience.
+
+## Project objectives
+# Objectives for Patients
+* Provide a unified, secure Personal Health Record (PHR) system.
+* Offer access to all medical records anytime, anywhere.
+* Reduce forgetfulness through reminders for medications, tests, and appointments.
+* Allow instant and secure sharing of medical history with doctors.
+* Improve treatment outcomes by eliminating lost or incomplete information.
+
+# Objectives for Doctors
+* Ensure access to accurate, verified, and updated medical histories.
+* Reduce time wasted gathering patient information.
+* Support diagnosis through structured summaries and interaction alerts.
+* Provide an intuitive dashboard for reviewing past records and making informed decisions.
+* Enhance patient–doctor communication and follow-up quality.
+
+# Objectives for the Healthcare Ecosystem
+* Support digital transformation in healthcare aligned with Egypt's 2030 vision.
+* Connect patients, clinics, pharmacies, labs, and insurers in one integrated ecosystem.
+* Enable future expansion into wearables and automated health monitoring.
+
   
-# Project objectives
-* Provide a centralized digital medical record to eliminate lost papers and fragmented information.
-* Enhance doctor patient communication and improve diagnosis accuracy.
-* Increase patient engagement through reminders, notifications, and easy data entry.
-* Ensure privacy and data security aligned with local regulations and international standards.
-* Offer multi-stakeholder access (patients, doctors, pharmacies) to improve healthcare coordination.
-* Differentiate from competitors through real-time syncing, lab integration, and a user-friendly interface.
+
+
 
 # Project Scop
 * UX Research: user interviews, surveys, personas.
