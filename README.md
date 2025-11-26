@@ -1,7 +1,7 @@
 ![Alt text for image](https://github.com/Medicatory/images/blob/main/Medcatory.png)
 
 <!-- 🎨 Figma Design -->
-<a href="https://www.figma.com/design/2r8WtjUncbEOBaLPXe2eMr/Medicatory?node-id=2-2&t=J1ARjvldqTdnaY4l-1" target="_blank">
+<a href="https://www.figma.com/design/ocWSawCoEE1V7IPL9iyBRG/Medicatory.group-2?node-id=2-2&t=kNIUKTLNk0lwcm0R-1" target="_blank">
   <img src="https://img.shields.io/badge/Open%20in-Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma button"/>
 </a>
 
